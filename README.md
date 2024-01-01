@@ -2,7 +2,7 @@ These labs are 100% correct (in the red group slight differences to other groups
 
 all code was created by me (AwesomeSauce106)
 
-At the time of creation the hidden questions could not be accessed, as a result the hidden questions are not recorded.
+I have lost access to the hidden questions for lab 1 and 2, they are not included for that reason
 
 lab 2:
   retirement ( if statements )
