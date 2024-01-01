@@ -15,5 +15,10 @@ Contents of the branches:
 
   lab 2:
     retirement ( if statements )
-    driverCategory ( if statements { could be a swtich either }  ) 
+    driverCategory ( switch statements { could be a if either they are inter-changeable }  ) 
+    calculator       ^
+    restaurantReviews ^
+    busFares ( this demonstrates the ternary operator )
     
+  lab 3:
+  upDown 
