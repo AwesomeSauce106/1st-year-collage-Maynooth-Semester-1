@@ -1,6 +1,8 @@
 !!! THE README CAN LOOK WEIRD IN ORDER TO READ MORE CLEARLY CLICK INTO CODE AND READ THERE !!!
 These labs are 100% correct (in the red group slight differences to other groups if compared)
 
+The different labs are on the different branches
+
 comments get included in code from lab 3 onwards
 
 all code was created by me (AwesomeSauce106)
